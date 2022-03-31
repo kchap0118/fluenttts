@@ -3,7 +3,7 @@ title: FluentTTS
 tagline: Text-dependent Fine-grained Style Control for Multi-style TTS
 url: https://getpoole.com
 paginate: 1
-baseurl: "http://kchap0118.github.io/fluenttts/"
+baseurl: ""
 permalink: pretty
 
 # Gems
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Changhwan Kim
-  url: https://kchap.github.io/fluenttts
-  email: fluenttts@gmail.com
+  name: Mark Otto
+  url: https://twitter.com/mdo
+  email: markdotto@gmail.com
 
 # Custom vars
 version: 3.0.0
