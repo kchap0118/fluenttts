@@ -1,9 +1,9 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: FluentTTS
+tagline: Text-dependent Fine-grained Style Control for Multi-style TTS
+url: https://kchap0118.github.io/fluenttts/
 paginate: 1
-baseurl: "https://kchap0118.github.io/fluenttts/"
+baseurl: "http://kchap0118.github.io/fluenttts/"
 permalink: pretty
 
 # Gems
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Changhwan Kim
+  url: https://kchap.github.io/fluenttts
+  email: fluenttts@gmail.com
 
 # Custom vars
 version: 3.0.0
