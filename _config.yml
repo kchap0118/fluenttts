@@ -3,7 +3,7 @@ title: FluentTTS
 tagline: Text-dependent Fine-grained Style Control for Multi-style TTS
 url: https://getpoole.com
 paginate: 1
-baseurl: ""
+baseurl: "http://kchap0118.github.io/fluenttts/"
 permalink: pretty
 
 # Gems
