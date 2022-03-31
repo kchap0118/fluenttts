@@ -1,7 +1,7 @@
 # Setup
 title: FluentTTS
 tagline: Text-dependent Fine-grained Style Control for Multi-style TTS
-url: https://kchap0118.github.io/fluenttts/
+url: https://getpoole.com
 paginate: 1
 baseurl: "http://kchap0118.github.io/fluenttts/"
 permalink: pretty
