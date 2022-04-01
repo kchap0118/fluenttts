@@ -14,7 +14,7 @@ Changhwan Kim, Seyun Um, Hyungchan Yoon, Hong-goo Kang
 <br />
 
 <h3>Proposed Method
-    
+
 </h3>
 
 <img src="./assets/img/unified_fig.png">
@@ -28,6 +28,20 @@ Our multi-style embedding enhances the naturalness and expressiveness of synthes
 <br />
 
 <h3>Samples
-    
-</h3>
+
+**Case 1. Performance**
+
+
+
+**Case 2. Utterance-level _F0_ control**
+
+
+
+**Case 3. Word-level _F0_ control**
+
+
+
+**Case 4. Phoneme-level _F0_ control**
+
+
 
