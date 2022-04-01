@@ -31,17 +31,17 @@ Our multi-style embedding enhances the naturalness and expressiveness of synthes
 
 **Case 1. Performance**
 
-
+<br />
 
 **Case 2. Utterance-level _F0_ control**
 
-
+<br />
 
 **Case 3. Word-level _F0_ control**
 
-
+<br />
 
 **Case 4. Phoneme-level _F0_ control**
 
-
+<br />
 
