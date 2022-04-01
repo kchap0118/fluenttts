@@ -337,7 +337,7 @@ Text 2. 데려다주기로 한 거니까, __어디든(eo di deun)__ 데려다주
 
 (The part where F0 has changed is marked in bold.)
 
-Text 1. 이번 여__름엔(reum en)__ 다같이 놀러가면 좋겠다. (I hope we can all play together in this __summer__.)
+Text 1. 이번 여**름엔(reum en)** 다같이 놀러가면 좋겠다. (I hope we can all play together in this __summer__.)
 
 <table style="margin-left: auto; margin-right: auto; text-align: center">
     <tr>
@@ -368,7 +368,7 @@ Text 1. 이번 여__름엔(reum en)__ 다같이 놀러가면 좋겠다. (I hope 
     </tr>
 </table>
 
-Text 2. 아빠, 우리 __유(yu)__치__원(won)__ 얼마나 좋은데요. (Dad, my __kindergarten__ is so nice.)
+Text 2. 아빠, 우리 **유(yu)**치**원(won)** 얼마나 좋은데요. (Dad, my __kindergarten__ is so nice.)
 
 <table style="margin-left: auto; margin-right: auto; text-align: center">
     <tr>
