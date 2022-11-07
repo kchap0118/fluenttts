@@ -6,6 +6,8 @@ subtitle: Text-dependent Fine-grained Style Control for Multi-style TTS
 
 Accepted to INTERSPEECH 2022 (Paper ID: 988)
 
+Official Pytorch implementation: [Link](https://github.com/monglechap/fluenttts)
+
 <h3>Authors
 </h3>
 
